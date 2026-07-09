@@ -1,6 +1,10 @@
 {
-  "name": "HOZN-real-estate",
-  "version": "0.1.0",
+  "name": "real-estate-management-system",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Enterprise real estate management platform built with Next.js, TypeScript, Node.js and PostgreSQL.",
+  "author": "Kaltra Muho",
+  "license": "MIT",,
   "private": true,
   "scripts": {
     "dev": "next dev",
